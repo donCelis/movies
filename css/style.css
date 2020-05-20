@@ -75,8 +75,8 @@ a {
   border-radius: 100%;
 }
 /*Estilos*/
-.movie header{
-   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+.movie header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .logo {
   color: var(--mainColor);
@@ -135,11 +135,11 @@ a {
   transform: scale(1);
   transition: var(--timing);
 }
-.photoUser img{
+.photoUser img {
   border: 2px solid var(--mainColor);
   transition: var(--timing);
 }
-.nameUser:hover .photoUser img{
+.nameUser:hover .photoUser img {
   transform: scale(1.125);
   border: 0 solid transparent;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
